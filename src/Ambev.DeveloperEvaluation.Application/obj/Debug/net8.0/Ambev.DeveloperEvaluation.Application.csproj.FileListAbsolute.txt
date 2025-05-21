@@ -1,0 +1,17 @@
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Application.deps.json
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Application.dll
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Application.pdb
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.dll
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.csproj.AssemblyReference.cache
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.AssemblyInfoInputs.cache
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.AssemblyInfo.cs
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.csproj.CoreCompileInputs.cache
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.De.8B5E65A2.Up2Date
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.dll
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Application.dll
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.pdb
+E:\vagas_testes\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Application.dll
