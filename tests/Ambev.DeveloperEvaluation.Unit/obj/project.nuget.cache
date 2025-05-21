@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jCENuYJn+pU5Kki4sbnQeiaiL2GubuSyW8gi0yq3wQ3ipfg5CG5U6IXoQddFb5SjUKFur/0TU7m198tyMrmshw==",
+  "dgSpecHash": "cGNQFii6YeuqRc3F1KA1sLv6RHpI/9J95nYrDw0euFDIKGcOrSszJGVgR8TMo9AQ/5m997rGyuoqgIQFwrwOIA==",
   "success": true,
   "projectFilePath": "E:\\vagas_testes\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Unit\\Ambev.DeveloperEvaluation.Unit.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,7 @@
     "C:\\Users\\yuri\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.8\\npgsql.entityframeworkcore.postgresql.8.0.8.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\nsubstitute\\5.1.0\\nsubstitute.5.1.0.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\oneof\\3.0.271\\oneof.3.0.271.nupkg.sha512",
+    "C:\\Users\\yuri\\.nuget\\packages\\rebus\\8.8.0\\rebus.8.8.0.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\roslynator.analyzers\\4.12.4\\roslynator.analyzers.4.12.4.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\roslynator.core\\4.12.4\\roslynator.core.4.12.4.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\roslynator.testing.common\\4.12.4\\roslynator.testing.common.4.12.4.nupkg.sha512",

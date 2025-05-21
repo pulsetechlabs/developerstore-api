@@ -59,6 +59,20 @@ namespace Ambev.DeveloperEvaluation.Domain.Entities
             UpdatedAt = DateTime.UtcNow;
         }
 
+        public void CancelItem(Guid itemId)
+        {
+            var item = Items.FirstOrDefault(i => i.Id == itemId);
+            if (item == null)
+                throw new DomainException("Item não encontrado.");
+
+            if (item.IsCancelled)
+                throw new DomainException("Este item já está cancelado.");
+
+            item.Cancel();
+            RecalculateTotal();
+            UpdatedAt = DateTime.UtcNow;
+        }
+
         public void RecalculateTotal()
         {
             TotalAmount = Items

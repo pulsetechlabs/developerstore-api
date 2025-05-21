@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4Z9Y9jt7KA4BbMlZyT/oQEqXabbFMX6BOQiaQ1wazxAvR6dbhLt06yC+w8MO+eGsNLbZWUcuuJmDdCdyQm1mdQ==",
+  "dgSpecHash": "3KWKZWBE6TrAh3KzAkHyXsfNu78oKoxobhpYota2z5VpT/yRM6QiJq5Z2fawdarbkX9YZoZZxuOMStTY7Pp2vw==",
   "success": true,
   "projectFilePath": "E:\\vagas_testes\\template\\backend\\tests\\Ambev.DeveloperEvaluation.Integration\\Ambev.DeveloperEvaluation.Integration.csproj",
   "expectedPackageFiles": [
@@ -48,6 +48,7 @@
     "C:\\Users\\yuri\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.8\\npgsql.entityframeworkcore.postgresql.8.0.8.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\nsubstitute\\5.1.0\\nsubstitute.5.1.0.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\oneof\\3.0.271\\oneof.3.0.271.nupkg.sha512",
+    "C:\\Users\\yuri\\.nuget\\packages\\rebus\\8.8.0\\rebus.8.8.0.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\serilog\\4.0.0\\serilog.4.0.0.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\serilog.aspnetcore\\8.0.3\\serilog.aspnetcore.8.0.3.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\serilog.enrichers.environment\\3.0.1\\serilog.enrichers.environment.3.0.1.nupkg.sha512",
