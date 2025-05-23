@@ -31,7 +31,7 @@ namespace Ambev.DeveloperEvaluation.Domain.Entities
             UnitPrice = unitPrice;
             IsCancelled = false;
 
-            CalculatediscountAndTotal();
+            CalculateDiscountAndTotal();
         }
 
         public void Cancel()

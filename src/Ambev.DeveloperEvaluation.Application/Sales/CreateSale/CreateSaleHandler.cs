@@ -6,11 +6,6 @@ using AutoMapper;
 using FluentValidation;
 using MediatR;
 using Rebus.Bus;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale
 {
@@ -19,13 +14,6 @@ namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale
         private readonly ISaleRepository _saleRepository;
         private readonly IBus _bus;
         private readonly IMapper _mapper;
-
-        public CreateSaleHandler(ISaleRepository saleRepository, IBus bus, IMapper mapper)
-        {
-            _saleRepository = saleRepository;
-            _bus = bus;
-            _mapper = mapper;
-        }
 
         public CreateSaleHandler(ISaleRepository saleRepository, IBus bus, IMapper mapper)
         {
@@ -46,7 +34,7 @@ namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale
 
             var sale = new Sale(
                 saleNumber,
-                request.Date,
+                request.Date.ToUniversalTime(),
                 request.CustomerId,
                 request.CustomerName,
                 request.BranchId,
